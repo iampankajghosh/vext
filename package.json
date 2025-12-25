@@ -1,7 +1,7 @@
 {
-  "name": "vext",
-  "displayName": "vext",
-  "description": "vext is a clean dark vscode theme inspired by vercel and nextjs",
+  "name": "next-horizon",
+  "displayName": "next horizon",
+  "description": "A clean, modern VS Code theme inspired by Vercel & Next.js.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.107.0"
@@ -17,5 +17,6 @@
         "path": "./themes/VEXT-color-theme.json"
       }
     ]
-  }
+  },
+  "publisher": "pankajghosh"
 }
