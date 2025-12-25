@@ -18,5 +18,10 @@
       }
     ]
   },
-  "publisher": "pankajghosh"
+  "publisher": "pankajghosh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iampankajghosh/next-horizon"
+  },
+  "license": "MIT"
 }
