@@ -1,4 +1,4 @@
-![Next Horizon Theme Banner](./images/banner.png)
+![Next Horizon Theme Banner](./images/banner.jpg)
 
 # Next Horizon Theme
 
