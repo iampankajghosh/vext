@@ -1,4 +1,4 @@
-![Next Horizon Theme Banner](/images/banner.png)
+![Next Horizon Theme Banner](./images/banner.png)
 
 # Next Horizon Theme
 
@@ -54,6 +54,8 @@ Designed to feel professional, minimal, and comfortable.
 4. Click **Install**
 5. Activate it via `Ctrl+K Ctrl+T` / `Cmd+K Cmd+T`
 
+Or install directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=pankajghosh.next-horizon).
+
 ---
 
 ### Open VSX
@@ -77,7 +79,7 @@ If you encounter any issues or have suggestions, feel free to open an issue or c
 
 ## Version
 
-Current version: **0.1.0**
+Current version: **0.2.0**
 
 See [CHANGELOG.md](./CHANGELOG.md) for version history and updates.
 
