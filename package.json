@@ -1,8 +1,9 @@
 {
-  "name": "vext",
-  "displayName": "vext",
-  "description": "vext is a clean dark vscode theme inspired by vercel and nextjs",
-  "version": "0.0.1",
+  "name": "next-horizon",
+  "displayName": "Next Horizon Theme",
+  "description": "A sleek, modern dark VS Code theme inspired by Next.js, focused on clarity, contrast, and developer comfort.",
+  "icon": "images/icon.png",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.107.0"
   },
@@ -12,10 +13,33 @@
   "contributes": {
     "themes": [
       {
-        "label": "VEXT",
+        "label": "Next Horizon",
         "uiTheme": "vs-dark",
-        "path": "./themes/VEXT-color-theme.json"
+        "path": "./themes/next-horizon-color-theme.json"
       }
     ]
+  },
+  "publisher": "pankajghosh",
+  "author": {
+    "name": "Pankaj Ghosh"
+  },
+  "homepage": "https://github.com/iampankajghosh/next-horizon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iampankajghosh/next-horizon"
+  },
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark",
+    "nextjs",
+    "next.js",
+    "modern",
+    "minimal",
+    "color-theme",
+    "vscode-theme"
+  ],
+  "bugs": {
+    "url": "https://github.com/iampankajghosh/next-horizon/issues"
   }
 }
