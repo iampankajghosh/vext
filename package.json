@@ -1,11 +1,16 @@
 {
-  "name": "next-horizon",
-  "displayName": "Next Horizon Theme",
-  "description": "A sleek, modern dark VS Code theme inspired by Next.js, focused on clarity, contrast, and developer comfort.",
-  "icon": "images/icon.png",
+  "name": "nexus-dark",
+  "displayName": "Nexus Dark",
+  "description": "A sleek, modern dark VS Code theme with clean aesthetics, focused on clarity, contrast, and developer comfort.",
   "version": "0.2.0",
+  "publisher": "pankajghosh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iampankajghosh/nexus-dark"
+  },
+  "icon": "icon.png",
   "engines": {
-    "vscode": "^1.107.0"
+    "vscode": "^1.75.0"
   },
   "categories": [
     "Themes"
@@ -13,33 +18,26 @@
   "contributes": {
     "themes": [
       {
-        "label": "Next Horizon",
+        "label": "Nexus Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/next-horizon-color-theme.json"
+        "path": "./themes/nexus-dark.json"
       }
     ]
   },
-  "publisher": "pankajghosh",
-  "author": {
-    "name": "Pankaj Ghosh"
-  },
-  "homepage": "https://github.com/iampankajghosh/next-horizon",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/iampankajghosh/next-horizon"
-  },
+  "author": "Pankaj Ghosh",
+  "homepage": "https://github.com/iampankajghosh/nexus-dark",
   "license": "MIT",
   "keywords": [
     "theme",
     "dark",
-    "nextjs",
-    "next.js",
+    "nexus",
     "modern",
     "minimal",
     "color-theme",
-    "vscode-theme"
+    "vscode-theme",
+    "dark-theme"
   ],
   "bugs": {
-    "url": "https://github.com/iampankajghosh/next-horizon/issues"
+    "url": "https://github.com/iampankajghosh/nexus-dark/issues"
   }
 }

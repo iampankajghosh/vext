@@ -1,10 +1,10 @@
-![Next Horizon Theme Banner](./images/banner.jpg)
+![preview](https://res.cloudinary.com/ddws3mapm/image/upload/v1766922081/preview_o6ovnl.png)
 
-# Next Horizon Theme
+# Nexus Dark
 
 ## Preview
 
-Next Horizon is a clean, modern dark theme inspired by the Next.js design language.  
+Nexus Dark is a clean, modern dark theme with a professional aesthetic.  
 It focuses on clarity, balanced contrast, and subtle accents to create a calm and productive coding environment—ideal for long development sessions.
 
 ---
@@ -32,7 +32,7 @@ For optimal syntax highlighting when working with modern web stacks, we recommen
 
 ## About
 
-Next Horizon is crafted with a focus on modern frontend development, drawing inspiration from the clean aesthetics and thoughtful color usage found in the Next.js ecosystem.
+Nexus Dark is crafted with a focus on modern development, featuring clean aesthetics and thoughtful color usage for an optimal coding experience.
 
 The theme prioritizes:
 
@@ -50,11 +50,11 @@ Designed to feel professional, minimal, and comfortable.
 
 1. Open **Visual Studio Code**
 2. Go to **Extensions** (`Ctrl+Shift+X` / `Cmd+Shift+X`)
-3. Search for **Next Horizon Theme**
+3. Search for **Nexus Dark**
 4. Click **Install**
 5. Activate it via `Ctrl+K Ctrl+T` / `Cmd+K Cmd+T`
 
-Or install directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=pankajghosh.next-horizon).
+Or install directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=pankajghosh.nexus-dark).
 
 ---
 
@@ -73,7 +73,7 @@ For editors that use the **Open VSX Registry** (VSCodium, Fleet, Windsurf, etc.)
 
 If you encounter any issues or have suggestions, feel free to open an issue or contribute:
 
-👉 [https://github.com/iampankajghosh/next-horizon](https://github.com/iampankajghosh/next-horizon)
+👉 [https://github.com/iampankajghosh/nexus-dark](https://github.com/iampankajghosh/nexus-dark)
 
 ---
 
@@ -91,4 +91,4 @@ This theme is licensed under the [MIT License](./LICENSE).
 
 ---
 
-Enjoy coding with **Next Horizon** 🌌
+Enjoy coding with **Nexus Dark** 🌌
